@@ -66,3 +66,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### presenter container 방식!
+
+휴대폰 잠금 어플
+
+사용자가 좋아요를 눌렀을 때, 데이터 베이스에 업데이트를 하지 않고, 먼저 사용자의
+화면에 표시하고, 다른 화면으로 전환 되었을때 업데이트 되도록.
